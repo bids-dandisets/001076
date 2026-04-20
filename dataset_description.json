@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Recorded calcium imaging data associated with the following manuscript: Embodied Neural Visuomotor Circuits in Neuromechanical Simulations and a Zebrafish Robot ",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Loring, Matthew"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
